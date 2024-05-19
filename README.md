@@ -29,13 +29,18 @@ or
 1. Run in terminal within directory
    ```bash
    ./name-sorter.sh unsorted-names-list.txt
-   ```
-
 ### Windows
 1. Run in terminal within directory
    ```bash
    ./name-sorter.bat unsorted-names-list.txt
    ```
+   ```
+### Test
+
+1. To run test run the following command in terminal:
+    ```bash
+     mvn test
+    ```
 
 
 ## Example

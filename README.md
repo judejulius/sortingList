@@ -6,8 +6,8 @@ This project sorts a list of names by last name and then by given names. It read
 ## Installation Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/name-sorter.git
-    cd name-sorter
+    git clone https://github.com/judejulius/sortingList.git
+    cd sortingList
     ```
 
 2. Install Maven if it is not already installed. Follow the instructions at [Maven Installation Guide](https://maven.apache.org/install.html).
@@ -20,8 +20,52 @@ This project sorts a list of names by last name and then by given names. It read
 
 2. Run the Name Sorter:
     ```bash
-    java -jar target/name-sorter-1.0-SNAPSHOT.jar <path-to-input-file>
+    java -jar target/name-sorter-1.0-SNAPSHOT.jar unsorted-names-list.txt
     ```
 
+or
+### Unix/Linux/MacOS
+
+1. Run in terminal within directory
+   ```bash
+   ./name-sorter.sh unsorted-names-list.txt
+   ```
+
+### Windows
+1. Run in terminal within directory
+   ```bash
+   ./name-sorter.bat unsorted-names-list.txt
+   ```
+
+
 ## Example
-Given a file `unsorted-names-list.txt` containing:
+`unsorted-names-list.txt` containing:
+    ```bash
+        Janet Parsons
+        Vaugh Lewis
+        Adonis Julius Archer
+        Shelby Nathan Yoder
+        Marin Alvarez
+        London Lindsey
+        Beau Tristan Bentley
+        Leo Gardner
+        Hunter Uriah Mathew Clarke
+        Mikayla Lopez
+        Frankie Conner Ritter
+    ```
+## Output
+    ```bash
+        Marin Alvarez
+        Adonis Julius Archer
+        Beau Tristan Bentley
+        Hunter Uriah Mathew Clarke
+        Leo Gardner
+        Vaugh Lewis
+        London Lindsey
+        Mikayla Lopez
+        Janet Parsons
+        Frankie Conner Ritter
+        Shelby Nathan Yoder
+    ```
+
+

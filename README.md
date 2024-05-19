@@ -39,7 +39,7 @@ or
 
 
 ## Example
-`unsorted-names-list.txt` containing:
+```unsorted-names-list.txt``` containing:
     ```bash
     Janet Parsons
     Vaugh Lewis

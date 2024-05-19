@@ -39,7 +39,7 @@ or
 
 
 ## Example
-unsorted-names-list.txt containing:
+unsorted-names-list.txt containing
     ```bash
     Janet Parsons
     Vaugh Lewis
@@ -54,7 +54,7 @@ unsorted-names-list.txt containing:
     Frankie Conner Ritter
     ```
 ## Output
-sorted-names-list containing:
+sorted-names-list containing
     ```bash
         Marin Alvarez
         Adonis Julius Archer

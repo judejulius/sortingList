@@ -25,15 +25,13 @@ This project sorts a list of names by last name and then by given names. It read
 
 or
 ### Unix/Linux/MacOS
-
 1. Run in terminal within directory
    ```bash
-   ./name-sorter.sh unsorted-names-list.txt
+   ./name-sorter.sh unsorted-names-list.txt or name-sorter ./unsorted-names-list.txt
 ### Windows
 1. Run in terminal within directory
    ```bash
-   ./name-sorter.bat unsorted-names-list.txt
-   ```
+   name-sorter ./unsorted-names-list.txt
    ```
 ### Test
 

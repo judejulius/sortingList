@@ -41,17 +41,17 @@ or
 ## Example
 `unsorted-names-list.txt` containing:
     ```bash
-        Janet Parsons
-        Vaugh Lewis
-        Adonis Julius Archer
-        Shelby Nathan Yoder
-        Marin Alvarez
-        London Lindsey
-        Beau Tristan Bentley
-        Leo Gardner
-        Hunter Uriah Mathew Clarke
-        Mikayla Lopez
-        Frankie Conner Ritter
+    Janet Parsons
+    Vaugh Lewis
+    Adonis Julius Archer
+    Shelby Nathan Yoder
+    Marin Alvarez
+    London Lindsey
+    Beau Tristan Bentley
+    Leo Gardner
+    Hunter Uriah Mathew Clarke
+    Mikayla Lopez
+    Frankie Conner Ritter
     ```
 ## Output
     ```bash

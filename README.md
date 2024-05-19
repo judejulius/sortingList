@@ -39,7 +39,7 @@ or
 
 
 ## Example
-1.unsorted-names-list.txt containing:
+1. unsorted-names-list.txt containing:
     ```bash
         Janet Parsons
         Vaugh Lewis
@@ -54,7 +54,7 @@ or
         Frankie Conner Ritter
     ```
 ## Output
-1.sorted-names-list containing:
+1. sorted-names-list containing:
     ```bash
         Marin Alvarez
         Adonis Julius Archer

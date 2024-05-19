@@ -30,7 +30,12 @@ or
    ```bash
    ./name-sorter.sh unsorted-names-list.txt
    ```
+### Test
 
+1. To run test run the following command in terminal:
+    ```bash
+     mvn test
+    ```
 ### Windows
 1. Run in terminal within directory
    ```bash

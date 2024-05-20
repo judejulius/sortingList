@@ -7,7 +7,7 @@ public class NameSorterMain {
 
     public static void main(String[] args) {
         if (args.length != 1) {
-            System.out.println("Usage: java -jar name-sorter.jar <input-file>");
+            System.out.println("Please use following command: java -jar name-sorter.jar unsorted-names-list.txt");
             System.exit(1);
         }
 

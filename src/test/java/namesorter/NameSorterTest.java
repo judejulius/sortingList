@@ -12,7 +12,7 @@ public class NameSorterTest {
     @Test
     public void testSortNames() {
         List<String> inputNames = Arrays.asList(
-            "Janet Parsons",
+            "Janet Parsonsss",
             "Vaugh Lewis",
             "Adonis Julius Archer",
             "Shelby Nathan Yoder",

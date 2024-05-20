@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: namesorter.NameSorterTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in namesorter.NameSorterTest
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in namesorter.NameSorterTest
+namesorter.NameSorterTest.testSortNames  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[Marin Alvarez, Adonis Julius Archer, Beau Tristan Bentley, Hunter Uriah Mathew Clarke, Leo Gardner, Vaugh Lewis, London Lindsey, Mikayla Lopez, Janet Parsons, Frankie Conner Ritter, Shelby Nathan Yoder]> but was: <[Marin Alvarez, Adonis Julius Archer, Beau Tristan Bentley, Hunter Uriah Mathew Clarke, Leo Gardner, Vaugh Lewis, London Lindsey, Mikayla Lopez, Janet Parsonsss, Frankie Conner Ritter, Shelby Nathan Yoder]>
+	at namesorter.NameSorterTest.testSortNames(NameSorterTest.java:45)
+

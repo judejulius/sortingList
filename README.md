@@ -73,5 +73,5 @@ or
      ```
 # Travis Cl
 1. Added .travis.yml file:
-    ![Build Status](https://travis-ci.com/judejulius/sortingList.svg?branch=master)
+    [![Build Status](https://app.travis-ci.com/judejulius/sortingList.svg?token=zVhrPS9FxqJKKtozgd4N&branch=master)](https://app.travis-ci.com/judejulius/sortingList)
 

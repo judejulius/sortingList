@@ -73,6 +73,5 @@ or
      ```
 # Travis Cl
 1. Added .travis.yml file:
-   ```bash 
     ![Build Status](https://travis-ci.com/judejulius/sortingList.svg?branch=master)
-    ```
+

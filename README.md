@@ -27,7 +27,7 @@ or
 ### Unix/Linux/MacOS
 1. Run in terminal within directory
    ```bash
-   ./name-sorter.sh unsorted-names-list.txt or name-sorter ./unsorted-names-list.txt
+   ./name-sorter.sh unsorted-names-list or name-sorter ./unsorted-names-list.txt
 ### Windows
 1. Run in terminal within directory
    ```bash

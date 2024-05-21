@@ -71,5 +71,6 @@ or
         Frankie Conner Ritter
         Shelby Nathan Yoder
      ```
-
-
+# Travis Cl
+1. Added .travis.yml file 
+    [![Build Status](https://travis-ci.com/judejulius/sortingList.svg?branch=master)]

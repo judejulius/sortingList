@@ -72,5 +72,7 @@ or
         Shelby Nathan Yoder
      ```
 # Travis Cl
-1. Added .travis.yml file 
-    [![Build Status](https://travis-ci.com/judejulius/sortingList.svg?branch=master)](https://travis-ci.com/judejulius/sortingList)
+1. Added .travis.yml file:
+   ```bash 
+    ![Build Status](https://travis-ci.com/judejulius/sortingList.svg?branch=master)
+    ```

@@ -13,7 +13,7 @@ public class NameSorterMain {
 
         String inputFile = args[0];
         FileProcessor fileProcessor = new FileProcessor();
-        Sorter nameSorter = new NameSorter();
+        NameSorter nameSorter = new NameSorter();
         
         try {
             List<String> names = fileProcessor.readNames(inputFile);
